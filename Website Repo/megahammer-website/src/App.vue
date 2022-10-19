@@ -11,7 +11,7 @@
             <vue-plyr ref="plyr">
               <div class="plyr__video-embed">
                 <iframe
-                    src="https://www.youtube.com/watch?v=1j9MdHglgck"
+                    src="https://www.youtube.com/watch?v=DWlLWS_9_Fs"
                     allowfullscreen
                     allowtransparency
                     allow="autoplay"
