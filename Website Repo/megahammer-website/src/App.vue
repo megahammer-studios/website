@@ -148,7 +148,7 @@ export default {
         {
           image: require("./assets/projects/kaiju_wars-game.png"),
           text: "sound design",
-          link: "http://www.foolish-mortals.net/kaijuwars",
+          link: "https://store.steampowered.com/app/1508400/Kaiju_Wars/",
           name: "Kaiju Wars"
         },
         {
@@ -234,7 +234,7 @@ export default {
         {
           image: require("./assets/projects/Alchemy-video-01.00_00_43_13.Still001.png"),
           text: "multimedia music + sound design",
-          link: "https://youtube.com/playlist?list=PL2L2NIX4GhktouJQHZFtAcNkJdYjaDSv7",
+          link: "https://www.youtube.com/watch?v=vvOvTafi2MU&list=PL2L2NIX4GhktouJQHZFtAcNkJdYjaDSv7&index=1",
           name: "Stream collab #1"
         },
         {
