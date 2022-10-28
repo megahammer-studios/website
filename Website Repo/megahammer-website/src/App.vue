@@ -390,6 +390,7 @@ body {
 .about .text {
   text-align: left;
   max-width: 800px;
+  padding-right: 64px;
 }
 
 .about-row {
@@ -399,12 +400,12 @@ body {
   padding-bottom: 64px;
 }
 
+
 .about-image {
   max-width: 250px;
 
   border-radius: 1000px;
-  padding: 32px;
-  padding-right: 64px;
+  padding: 64px;
 }
 
 .video-player {
@@ -580,6 +581,35 @@ input:focus {
 
 .socials img:hover {
   opacity: 1;
+}
+
+@media only screen and (max-width: 800px) {
+  .about-row {
+    flex-direction: column;
+  }
+
+  .about-image {
+    padding: 32px;
+  }
+
+  .about .text {
+    padding: 32px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+  .about .text {
+    font-size: 20px;
+  }
+
+  .input-row {
+    flex-direction: column;
+  }
+
+  .contact-form {
+    padding: 32px;
+  }
 }
 
 </style>

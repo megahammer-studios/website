@@ -84,4 +84,10 @@ export default {
   image-rendering: crisp-edges;
 
 }
+
+@media only screen and (max-width: 600px) {
+  .logo {
+    max-height: 60px;
+  }
+}
 </style>
